@@ -25,6 +25,16 @@ Each case study explains the problem, what I built, who did what, and what is st
 | [Erez Fire Team](https://vadim-kravets.vercel.app/work/erez-fire-team/) | A Hebrew RTL workflow connecting volunteer availability, staffing coverage, and published weekly schedules. | Private team app case study uses sample data |
 | [Gym Log](https://vadim-kravets.vercel.app/work/gym-log/) | A training PWA with suggested weights, rest timers, exercise guidance, and offline logging. | Personal training app data stays on the device |
 
+## Public source showcases
+
+These curated source copies can be reviewed independently of the private working apps.
+
+- [Developer Knowledge & Compliance Engine](https://github.com/kravitzvadim-cl/developer-knowledge-engine-showcase)
+- [Atlas Trend](https://github.com/kravitzvadim-cl/atlas-trend-showcase)
+- [CV Editor](https://github.com/kravitzvadim-cl/cv-editor-showcase)
+- [Gym Log](https://github.com/kravitzvadim-cl/gym-log-showcase)
+- [What Skill](https://github.com/kravitzvadim-cl/what-skill-showcase)
+
 ## Background & interests
 
 AI adoption, LLM workflow automation, product framing, team leadership, accessibility, and Hebrew RTL interfaces.

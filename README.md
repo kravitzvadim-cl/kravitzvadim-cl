@@ -1,48 +1,34 @@
-## Hi there 👋
+# Vadim Kravets
 
-# I'm Vadim Kravets
+### I turn messy problems into working AI solutions.
 
-I turn messy problems and interesting ideas into working software.
+**AI Enablement & Technical Operations | LLM Workflow Automation | Hands-on AI Builder**
 
-Previously, I led Technical Design at Wix Marketing. Now I build independent products with AI coding agents, combining product thinking, design, and hands-on experimentation and Ai enablement for teams and organizations.
+I start from the person's problem, research how others solved it, decide what not to build, and turn the rest into something small and tested that works.
 
-Some projects solve everyday problems. Others explore how AI can help us research, design, and build better.
-
-## AI, knowledge & automation
-
-- **Atlas Trend** - An AI design research tool that turns visual trends into credited mood boards, sampled palettes, styled components, and exportable design tokens.
-- **Developer Knowledge & Compliance Engine** - A documentation assistant built around cited answers, explicit refusals, and an evaluation gate for answer quality.
-- **Signal Desk** - A lead research and outreach portfolio case study, with evidence-backed drafting and human approval before sending.
-- **Project Knowledge Companion** - A local portfolio demo for turning rough requests into project briefs and capturing reviewed lessons for future work.
-- **Hebrew Ad Studio** - A prototype that turns product photos and a Hebrew business brief into editable social ad creatives.
-
-## Tools for building & creating
-
-- **What Skill** - An alpha toolkit for helping coding agents challenge assumptions, record decisions, and maintain project context.
-- **Claude Code Mods** - Personal extensions for tracking agent activity, understanding the scope of changes, and customizing the coding environment.
-- **CV Editor** - A browser-based document editor with PDF import/export, reusable text styles, and Hebrew/English translation with layout mirroring.
-
-## Everyday tools & community projects
-
-- **Next Role** - A private job-search workspace for tracking opportunities, reviewing CV-based fit, and preparing applications.
-- **Gym Log** - A training PWA with workout logging, progression targets, rest timers, and progress reports.
-- **Kibui Erez Shifts** - A Hebrew RTL app for volunteer availability and community firefighting schedules.
-- **Pub Erez** - A Hebrew RTL pub dashboard for shifts, customer tabs, orders, and reporting.
-- **Kokovino** - A Hebrew RTL website for a wine bar.
-
-## Games & side quests
-
-- **War Council** - An unofficial Warhammer companion redesign with faction and unit references, campaign selection, comparisons, and offline access.
-- **Buy & Play** - A PC game price-comparison app with store offers, price history references, and currency conversion.
-
-My repositories also include portfolio iterations, experiments, and projects still in planning. Project maturity varies: some are working tools, others are prototypes, demos, or alpha releases.
+Previously, I was Head of Technical Design & Operations at Wix Marketing, leading a 20+ person department through two team leads. Today, I build working software by directing AI agents, with a focus on AI enablement for teams and organizations.
 
 ## How I work
 
-I frame the problem, research existing approaches, decide what belongs in scope, and build iteratively with Claude Code and Codex. I direct the agents, review changes with them, and test the resulting experience.
+I write the brief, set the constraints, review changes with the coding agent, and decide what ships. Claude Code writes code and tests under my direction. My work combines product requirements, design decisions, and browser-based verification.
 
-My background brings together technical design, team leadership, marketing operations, accessibility, and Hebrew RTL interfaces.
+Each case study explains the problem, what I built, who did what, and what is still unproven.
 
-Based in Israel. Always curious about a problem worth building something for.
+## Selected work
 
-[LinkedIn](https://www.linkedin.com/in/vadim-kravets-86989115a/) · [Email](mailto:kravitzvadim@gmail.com)
+| Project | What it explores | Access / status |
+| --- | --- | --- |
+| [Developer Knowledge & Compliance Engine](https://vadim-kravets.vercel.app/work/dev-knowledge-engine/) | Answers about docs and policies with claim-level citations and an evaluation gate for quality changes. | Prototype; demo by invite |
+| [Atlas Trend](https://vadim-kravets.vercel.app/work/atlas-trend/) | An AI research agent that turns a visual trend into a credited style kit, components, and reusable design tokens. | Prototype; invite only |
+| [Agentic OS](https://vadim-kravets.vercel.app/work/agentic-os/) | A local Mac app for remembering AI sessions and mapping projects. The case study covers why I switched most of it off after measuring its running cost. | Built and used locally; mostly switched off |
+| [CV Editor](https://vadim-kravets.vercel.app/work/cv-editor/) | PDF editing, document hierarchy, ATS text inspection, and Hebrew/English translation. | Working app; hosted copy requires access |
+| [Erez Fire Team](https://vadim-kravets.vercel.app/work/erez-fire-team/) | A Hebrew RTL workflow connecting volunteer availability, staffing coverage, and published weekly schedules. | Private team app; case study uses sample data |
+| [Gym Log](https://vadim-kravets.vercel.app/work/gym-log/) | A training PWA with suggested weights, rest timers, exercise guidance, and offline logging. | Personal training app; data stays on the device |
+
+## Background & interests
+
+AI adoption, LLM workflow automation, product framing, team leadership, accessibility, and Hebrew RTL interfaces.
+
+Based in Israel.
+
+[Portfolio](https://vadim-kravets.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/vadim-kravets-86989115a/) · [Email](mailto:kravitzvadim@gmail.com)

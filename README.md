@@ -1,44 +1,23 @@
 # Vadim Kravets
 
-### I turn messy problems into working AI solutions.
+### I roll AI out to marketing and design teams, measure whether it sticks, and build the agents myself.
 
-**AI Enablement & Technical Operations | LLM Workflow Automation | Hands-on AI Builder**
+**AI Enablement & Design Operations** · Israel · hybrid or remote
 
-I start from the person's problem, research how others solved it, decide what not to build, and turn the rest into something small and tested that works.
-
-Previously, I was Head of Technical Design & Operations at Wix Marketing, leading a 20+ person department through two team leads. Today, I build working software by directing AI agents, with a focus on AI enablement for teams and organizations.
-
-## How I work
-
-I write the brief, set the constraints, review changes with the coding agent, and decide what ships. Claude Code writes code and tests under my direction. My work combines product requirements, design decisions, and browser-based verification.
-
-Each case study explains the problem, what I built, who did what, and what is still unproven.
+At Wix I was Head of Technical Design & Operations for Marketing, leading a 20+ person department through two team leads, and I ran Marketing's Base44 rollout with trainings, usage guidelines and a self-serve page tool for PMs. Since 2026 I ship AI tools end to end as product owner: I write the spec, make the architecture calls, own the evals and review every change; Claude Code writes the code under my direction.
 
 ## Selected work
 
-| Project | What it explores | Access / status |
+| Project | What it proves | Code |
 | --- | --- | --- |
-| [Developer Knowledge & Compliance Engine](https://vadim-kravets.vercel.app/work/dev-knowledge-engine/) | Answers about docs and policies with claim-level citations and an evaluation gate for quality changes. | Prototype demo by invite |
-| [Atlas Trend](https://vadim-kravets.vercel.app/work/atlas-trend/) | An AI research agent that turns a visual trend into a credited style kit, components, and reusable design tokens. | Prototype invite only |
-| [Agentic OS](https://vadim-kravets.vercel.app/work/agentic-os/) | A local Mac app for remembering AI sessions and mapping projects. The case study covers why I switched most of it off after measuring its running cost. | Built and used locally |
-| [CV Editor](https://vadim-kravets.vercel.app/work/cv-editor/) | PDF editing, document hierarchy, ATS text inspection, and Hebrew/English translation. | Working app hosted copy requires access |
-| [Erez Fire Team](https://vadim-kravets.vercel.app/work/erez-fire-team/) | A Hebrew RTL workflow connecting volunteer availability, staffing coverage, and published weekly schedules. | Private team app case study uses sample data |
-| [Gym Log](https://vadim-kravets.vercel.app/work/gym-log/) | A training PWA with suggested weights, rest timers, exercise guidance, and offline logging. | Personal training app data stays on the device |
+| [Developer Knowledge & Compliance Engine](https://vadim-kravets.vercel.app/work/dev-knowledge-engine/) | A docs and policy assistant where every claim cites its source. 96% grounded answers and 100% correct refusals on a 77-question eval that runs on every pull request and blocks quality drops. Picked Claude Haiku over Sonnet by measurement: same quality at about 1/14 of the cost. | [Source](https://github.com/kravitzvadim-cl/developer-knowledge-engine-showcase) |
+| [Atlas Trend](https://vadim-kravets.vercel.app/work/atlas-trend/) | An AI research agent for design teams: finds real examples of a trend, keeps or rejects each with a reason, and outputs a style kit and design tokens. 97% agreement with human labels on 79 images, about $0.02 per search. | [Source](https://github.com/kravitzvadim-cl/atlas-trend-showcase) |
+| [Erez Fire Team](https://vadim-kravets.vercel.app/work/erez-fire-team/) | A Hebrew RTL scheduling app live for a real volunteer team: availability, staffing coverage and published weekly schedules. | Private (team data) |
 
-## Public source showcases
+**Other builds:** [CV Editor](https://github.com/kravitzvadim-cl/cv-editor-showcase) · [Gym Log](https://github.com/kravitzvadim-cl/gym-log-showcase) · [What Skill](https://github.com/kravitzvadim-cl/what-skill-showcase) · [Agentic OS](https://vadim-kravets.vercel.app/work/agentic-os/)
 
-These curated source copies can be reviewed independently of the private working apps.
+Each public repo is a curated copy with fresh history and sample data; live AI calls are off by default.
 
-- [Developer Knowledge & Compliance Engine](https://github.com/kravitzvadim-cl/developer-knowledge-engine-showcase)
-- [Atlas Trend](https://github.com/kravitzvadim-cl/atlas-trend-showcase)
-- [CV Editor](https://github.com/kravitzvadim-cl/cv-editor-showcase)
-- [Gym Log](https://github.com/kravitzvadim-cl/gym-log-showcase)
-- [What Skill](https://github.com/kravitzvadim-cl/what-skill-showcase)
+## Contact
 
-## Background & interests
-
-AI adoption, LLM workflow automation, product framing, team leadership, accessibility, and Hebrew RTL interfaces.
-
-Based in Israel.
-
-[Portfolio](https://vadim-kravets.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/vadim-kravets-86989115a/) · [Email](mailto:kravitzvadim@gmail.com)
+[Case studies](https://vadim-kravets.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/vadim-kravets-86989115a/) · [Email](mailto:kravitzvadim@gmail.com)

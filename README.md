@@ -18,12 +18,12 @@ Each case study explains the problem, what I built, who did what, and what is st
 
 | Project | What it explores | Access / status |
 | --- | --- | --- |
-| [Developer Knowledge & Compliance Engine](https://vadim-kravets.vercel.app/work/dev-knowledge-engine/) | Answers about docs and policies with claim-level citations and an evaluation gate for quality changes. | Prototype; demo by invite |
-| [Atlas Trend](https://vadim-kravets.vercel.app/work/atlas-trend/) | An AI research agent that turns a visual trend into a credited style kit, components, and reusable design tokens. | Prototype; invite only |
-| [Agentic OS](https://vadim-kravets.vercel.app/work/agentic-os/) | A local Mac app for remembering AI sessions and mapping projects. The case study covers why I switched most of it off after measuring its running cost. | Built and used locally; mostly switched off |
-| [CV Editor](https://vadim-kravets.vercel.app/work/cv-editor/) | PDF editing, document hierarchy, ATS text inspection, and Hebrew/English translation. | Working app; hosted copy requires access |
-| [Erez Fire Team](https://vadim-kravets.vercel.app/work/erez-fire-team/) | A Hebrew RTL workflow connecting volunteer availability, staffing coverage, and published weekly schedules. | Private team app; case study uses sample data |
-| [Gym Log](https://vadim-kravets.vercel.app/work/gym-log/) | A training PWA with suggested weights, rest timers, exercise guidance, and offline logging. | Personal training app; data stays on the device |
+| [Developer Knowledge & Compliance Engine](https://vadim-kravets.vercel.app/work/dev-knowledge-engine/) | Answers about docs and policies with claim-level citations and an evaluation gate for quality changes. | Prototype demo by invite |
+| [Atlas Trend](https://vadim-kravets.vercel.app/work/atlas-trend/) | An AI research agent that turns a visual trend into a credited style kit, components, and reusable design tokens. | Prototype invite only |
+| [Agentic OS](https://vadim-kravets.vercel.app/work/agentic-os/) | A local Mac app for remembering AI sessions and mapping projects. The case study covers why I switched most of it off after measuring its running cost. | Built and used locally mostly switched off |
+| [CV Editor](https://vadim-kravets.vercel.app/work/cv-editor/) | PDF editing, document hierarchy, ATS text inspection, and Hebrew/English translation. | Working app hosted copy requires access |
+| [Erez Fire Team](https://vadim-kravets.vercel.app/work/erez-fire-team/) | A Hebrew RTL workflow connecting volunteer availability, staffing coverage, and published weekly schedules. | Private team app case study uses sample data |
+| [Gym Log](https://vadim-kravets.vercel.app/work/gym-log/) | A training PWA with suggested weights, rest timers, exercise guidance, and offline logging. | Personal training app data stays on the device |
 
 ## Background & interests
 

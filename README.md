@@ -10,7 +10,7 @@ Previously, I was Head of Technical Design & Operations at Wix Marketing, leadin
 
 ## How I work
 
-I write the brief, set the constraints, review changes with the coding agent, and decide what ships. I owned the spec, architecture decisions, evals and review; built with Claude Code.” It’s still honest, and it puts your judgment first. My work combines product requirements, design decisions, and browser-based verification.
+I write the brief, set the constraints, review changes with the coding agent, and decide what ships. I owned the spec, architecture decisions, evals and review; built with Claude Code. My work combines product requirements, design decisions, and browser-based verification.
 
 Each case study explains the problem, what I built, who did what, and what is still unproven.
 
